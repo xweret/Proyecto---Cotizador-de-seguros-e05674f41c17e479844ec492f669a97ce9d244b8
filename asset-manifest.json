@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xweret/Proyecto---Cotizador-de-seguros-e05674f41c17e479844ec492f669a97ce9d244b8/static/css/main.d688a4cb.css",
+    "main.js": "/xweret/Proyecto---Cotizador-de-seguros-e05674f41c17e479844ec492f669a97ce9d244b8/static/js/main.6af1de57.js",
+    "static/js/787.c8656106.chunk.js": "/xweret/Proyecto---Cotizador-de-seguros-e05674f41c17e479844ec492f669a97ce9d244b8/static/js/787.c8656106.chunk.js",
+    "index.html": "/xweret/Proyecto---Cotizador-de-seguros-e05674f41c17e479844ec492f669a97ce9d244b8/index.html",
+    "main.d688a4cb.css.map": "/xweret/Proyecto---Cotizador-de-seguros-e05674f41c17e479844ec492f669a97ce9d244b8/static/css/main.d688a4cb.css.map",
+    "main.6af1de57.js.map": "/xweret/Proyecto---Cotizador-de-seguros-e05674f41c17e479844ec492f669a97ce9d244b8/static/js/main.6af1de57.js.map",
+    "787.c8656106.chunk.js.map": "/xweret/Proyecto---Cotizador-de-seguros-e05674f41c17e479844ec492f669a97ce9d244b8/static/js/787.c8656106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d688a4cb.css",
+    "static/js/main.6af1de57.js"
+  ]
+}
