@@ -1,0 +1,15 @@
+.body{
+  background-color: #112753;
+}
+.App {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  font-size: 1em;
+}
+
+.titulo{
+  margin-bottom: 1em;
+  color: #b5b5b5;
+  font-size: 3em;
+}

@@ -1,0 +1,43 @@
+ .subtitulo{
+  color: #343a40;
+  margin-top: 0.5em;
+ }
+
+ #formulario{
+    display: block;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    background-color: #ffff;  
+    border-color: #fff;
+    padding: 0;
+}
+
+.formulario-elemento{
+    display: block;
+    width:80%;
+    margin: auto ;
+    outline: none;
+    height: 2em;
+}
+
+.label{
+  color: #343a40;
+  margin-top: 1em;
+  text-align: right;
+} 
+
+.option , .formulario-elemento{
+  text-transform: capitalize;
+}
+
+.enviar{
+  background: #fff;
+  border: none;
+  padding: 0.5em;
+  background-color:#343a40;
+  color: #fff;
+  border-radius: 0.3em;
+  margin: 1em;
+  text-transform: uppercase;
+}
